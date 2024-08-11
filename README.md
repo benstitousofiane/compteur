@@ -1,6 +1,6 @@
 # compteur1️⃣ V2.02
 
-Note mise à jour V2.02 : Totalement refait en réact avec un niveau design.
+Note mise à jour V2.02 : Totalement refait en React avec un niveau design.
 
 ![image](https://github.com/user-attachments/assets/e3233ed1-95b2-4a63-9fb1-61fed4b45f34)
 
