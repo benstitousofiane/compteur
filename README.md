@@ -29,8 +29,10 @@ Ma toute première application web, simple et efficace.
 
 # Les fonctionnalités
 
-**-1** : enlever 1 au compteur
-**à 0** : remettre le compteur à zero
-**+1** : ajouter 1 au compteur
+- **Decrease -** : enlever 1 au compteur
+
+- **Reset 0** : remettre le compteur à zero
+
+- **Increase 1** : ajouter 1 au compteur
 
 Un petit pas pour l'humanité, mais un grand pas pour l'homme que je deviendrai 🤯
