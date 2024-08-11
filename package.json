@@ -1,7 +1,7 @@
 {
   "name": "compteur",
   "private": true,
-  "version": "0.0.0",
+  "version": "2.02",
   "type": "module",
   "scripts": {
     "dev": "vite",
