@@ -33,6 +33,6 @@ Ma toute première application web, simple et efficace.
 
 - **Reset 0** : remettre le compteur à zero
 
-- **Increase 1** : ajouter 1 au compteur
+- **Increase +** : ajouter 1 au compteur
 
 Un petit pas pour l'humanité, mais un grand pas pour l'homme que je deviendrai 🤯
